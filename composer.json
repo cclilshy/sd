@@ -1,0 +1,17 @@
+{
+    "name": "cclilshy/sd",
+    "autoload": {
+        "psr-4": {
+            "Cclilshy\\SD\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cclilshy",
+            "email": "jingnigg@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
