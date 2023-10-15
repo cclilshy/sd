@@ -1,4 +1,4 @@
 ### install
 ```bash
-compsoer require cclilshy/sd
+composer require cclilshy/sd
 ```
